@@ -38,4 +38,4 @@ An independent investment research project combining fundamental and technical a
 Python 3.14 | yfinance | pandas | matplotlib
 
 ## Context
-NTU Economics undergraduate | Singapore PR | Targeting quantitative finance roles
+NTU Economics undergraduate | Targeting quantitative finance roles
